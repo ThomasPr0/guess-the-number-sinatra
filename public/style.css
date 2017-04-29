@@ -1,0 +1,19 @@
+h1 {
+    font-size: 2cm;
+  
+}
+
+body {
+  color: white;
+  text-align: center;
+  background-image: url("/img/light-bg1.png");
+  font-family: 'Baloo', cursive;
+}
+
+.btn{
+  color: #ffffff;
+  background-color: purple;
+  padding: 1em;
+  text-decoration:none;
+  display: inline-block;
+}
